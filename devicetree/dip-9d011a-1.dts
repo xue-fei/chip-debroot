@@ -22,7 +22,7 @@
 
 			panel {
 				power-supply = <&reg_vcc3v3>;
-				compatible = "olimex,lcd-olinuxino-43-ts";
+				compatible = "allwinner,sun4i-a10-sub-evb-5-lcd";
 				backlight = <&backlight>;
 
 				port {
